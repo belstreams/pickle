@@ -23,8 +23,8 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "⊹ ࣪˖ watching bel's latest stream ˚. ᵎᵎ", // required by Discord API, not shown in the client
-        state: "⊹ ࣪˖ watching bel's latest stream ˚. ᵎᵎ",     // this is what people actually see
+        name: "watching bel's latest stream", // required by Discord API, not shown in the client
+        state: "watching bel's latest stream",     // this is what people actually see
         type: 4,               // Custom
       },
     ],

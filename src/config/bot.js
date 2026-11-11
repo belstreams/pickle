@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: "watching bel's latest stream", // required by Discord API, not shown in the client
         state: "1",     // this is what people actually see
-        type: 4,               // Custom
+        type: 1,               // Custom
       },
     ],
   },
